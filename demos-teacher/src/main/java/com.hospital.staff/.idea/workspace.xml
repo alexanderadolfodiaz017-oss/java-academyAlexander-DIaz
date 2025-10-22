@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bdd0043f-459d-42dd-a131-23de11c58eee" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo-Project/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo-Project/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo-Project/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo-Project/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo-Project/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo-Project/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo-Project/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo-Project2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo-Project2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo-Project2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo-Project2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo-Project2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo-Project2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo-Project2/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo_.Project5/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo_.Project5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo_.Project5/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo_.Project5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo_.Project5/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo_.Project5/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo_.Project5/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo_Project3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo_Project3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo_Project3/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo_Project3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo_Project3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo_Project3/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo_Project3/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo_Project4/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo_Project4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo_Project4/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo_Project4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo_Project4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo_Project4/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo_Project4/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo_Project6/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo_Project6/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo_Project6/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo_Project6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo_Project6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo_Project6/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo_Project6/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo_Project7/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo_Project7/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo_Project7/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo_Project7/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo_Project7/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo_Project7/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo_Project7/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo_Project8/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo_Project8/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo_Project8/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo_Project8/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo_Project8/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo_Project8/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo_Project8/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo_Project9/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo_Project9/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo_Project9/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo_Project9/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo_Project9/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo_Project9/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Chatgpt-Demo/demo_Project9/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/DemoStart/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/DemoStart/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/DemoStart/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/DemoStart/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/DemoStart/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/DemoStart/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/DemoStart/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/RecapFunDay4/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/RecapFunDay4/toy_story.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Recap_Week_1_project/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Recap_Week_1_project/src/main/java/com/pluralsight/GradeChecker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Recap_Week_1_project/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Student Workbook 2 - Strings Loops and Arrays/FullNameGenerator/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Student Workbook 2 - Strings Loops and Arrays/FullNameGenerator/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Student Workbook 2 - Strings Loops and Arrays/FullNameParser/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Student Workbook 2 - Strings Loops and Arrays/FullNameParser/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Student Workbook 2 - Strings Loops and Arrays/OverloadedCellPhone/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Student Workbook 2 - Strings Loops and Arrays/OverloadedCellPhone/src/main/java/com/pluralsight/CellPhone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Student Workbook 2 - Strings Loops and Arrays/OverloadedCellPhone/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Student Workbook 2 - Strings Loops and Arrays/RollTheDice/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Student Workbook 2 - Strings Loops and Arrays/RollTheDice/src/main/java/com/plurualsight/Dice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Student Workbook 2 - Strings Loops and Arrays/RollTheDice/src/main/java/com/plurualsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Student Workbook 2 - Strings Loops and Arrays/Vehicle/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Student Workbook 2 - Strings Loops and Arrays/Vehicle/src/main/java/com/plurualsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Student Workbook 2 - Strings Loops and Arrays/Vehicle/src/main/java/com/plurualsight/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Student Workbook 2 - Strings Loops and Arrays/addressbuilder/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Student Workbook 2 - Strings Loops and Arrays/addressbuilder/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Student Workbook 2 - Strings Loops and Arrays/addressbuilder/src/main/java/com/pluralsight/addressbuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Student Workbook 2 - Strings Loops and Arrays/cell_phone_service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Student Workbook 2 - Strings Loops and Arrays/cell_phone_service/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Student Workbook 2 - Strings Loops and Arrays/cell_phone_service/src/main/java/com/pluralsight/cell_phone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Student Workbook 2 - Strings Loops and Arrays/cellphone_service_extended/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Student Workbook 2 - Strings Loops and Arrays/cellphone_service_extended/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Student Workbook 2 - Strings Loops and Arrays/cellphone_service_extended/src/main/java/com/pluralsight/cellphone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Student Workbook 2 - Strings Loops and Arrays/highscorewins/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Student Workbook 2 - Strings Loops and Arrays/highscorewins/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Student Workbook 2 - Strings Loops and Arrays/highscorewins/src/main/java/highscorewins.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Student Workbook 2 - Strings Loops and Arrays/looping_exercises/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Student Workbook 2 - Strings Loops and Arrays/looping_exercises/src/main/java/com/plurualsight/DoWhileLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Student Workbook 2 - Strings Loops and Arrays/looping_exercises/src/main/java/com/plurualsight/ForLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Student Workbook 2 - Strings Loops and Arrays/looping_exercises/src/main/java/com/plurualsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Student Workbook 2 - Strings Loops and Arrays/looping_exercises/src/main/java/com/plurualsight/WhileLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Student Workbook 2 - Strings Loops and Arrays/test_statistics/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Student Workbook 2 - Strings Loops and Arrays/test_statistics/src/main/java/com/plurualsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Student Workbook 2 - Strings Loops and Arrays/theater_reservations/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Student Workbook 2 - Strings Loops and Arrays/theater_reservations/src/main/java/Scanner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Student Workbook 2 - Strings Loops and Arrays/theater_reservations/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Student Workbook 2 - Strings Loops and Arrays/theater_reservations/src/main/java/com/pluralsight/data_time_formatter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Student Workbook 2 - Strings Loops and Arrays/wk2_stringsandarrays/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Student Workbook 2 - Strings Loops and Arrays/wk2_stringsandarrays/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/TodoApp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/TodoApp/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/TodoApp/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/TodoApp/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/TodoApp/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/TodoApp/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/TodoApp/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/TodoApp/src/main/java/com/pluralsight/Task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Workbook 2b - Working with Intellij/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Workbook 2b - Working with Intellij/src/main/java/com/plurualsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Workbook 2b - Working with Intellij/src/main/java/com/plurualsight/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Workbook 3a - Mastering Java Fundamentals/bedtime_stories/goldilocks.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Workbook 3a - Mastering Java Fundamentals/bedtime_stories/hansel_and_gretel.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Workbook 3a - Mastering Java Fundamentals/bedtime_stories/mary_had_a_little_lamb.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Workbook 3a - Mastering Java Fundamentals/bedtime_stories/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Workbook 3a - Mastering Java Fundamentals/bedtime_stories/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Workbook 3a - Mastering Java Fundamentals/famous_quotes/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Workbook 3a - Mastering Java Fundamentals/famous_quotes/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Workbook 3a - Mastering Java Fundamentals/famous_quotes/src/main/java/com/pluralsight/famous_quotes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/Workshop/finacialCalculator/src/main/java/com/pluralsight/finacialCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/cat_demo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/cat_demo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/cat_demo/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/cat_demo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/cat_demo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/cat_demo/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/cat_demo/src/main/java/com/pluralsight/cat_demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/catexercise/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/catexercise/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/catexercise/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/catexercise/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/catexercise/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/catexercise/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/catexercise/src/main/java/com/pluralsight/catexercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/debug_demo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/debug_demo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/debug_demo/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/debug_demo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/debug_demo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/debug_demo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/debug_demo/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/debug_demo/src/main/java/com/pluralsight/debug_demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demo_methods/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demo_methods/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demo_methods/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demo_methods/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demo_methods/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demo_methods/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demo_methods/src/main/java/com/pluralsight/demo_methods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo-Project/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo-Project/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo-Project/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo-Project/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo-Project/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo-Project/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo-Project/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo-Project2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo-Project2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo-Project2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo-Project2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo-Project2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo-Project2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo-Project2/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo_.Project5/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo_.Project5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo_.Project5/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo_.Project5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo_.Project5/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo_.Project5/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo_.Project5/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo_Project3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo_Project3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo_Project3/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo_Project3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo_Project3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo_Project3/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo_Project3/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo_Project4/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo_Project4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo_Project4/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo_Project4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo_Project4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo_Project4/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo_Project4/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo_Project6/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo_Project6/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo_Project6/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo_Project6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo_Project6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo_Project6/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo_Project6/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo_Project7/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo_Project7/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo_Project7/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo_Project7/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo_Project7/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo_Project7/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo_Project7/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo_Project8/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo_Project8/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo_Project8/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo_Project8/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo_Project8/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo_Project8/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo_Project8/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo_Project9/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo_Project9/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo_Project9/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo_Project9/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo_Project9/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo_Project9/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Chatgpt-Demo/demo_Project9/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/DemoStart/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/DemoStart/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/DemoStart/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/DemoStart/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/DemoStart/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/DemoStart/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/DemoStart/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/PowerpuffGirls/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/PowerpuffGirls/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/PowerpuffGirls/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/PowerpuffGirls/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/PowerpuffGirls/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/PowerpuffGirls/src/main/java/com/pluralsight/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/PowerpuffGirls/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/PowerpuffGirls/src/main/java/com/pluralsight/PowerpuffGirl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/RecapFunDay4/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/RecapFunDay4/toy_story.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Recap_Week_1_project/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Recap_Week_1_project/src/main/java/com/pluralsight/GradeChecker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Recap_Week_1_project/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Student Workbook 2 - Strings Loops and Arrays/FullNameGenerator/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Student Workbook 2 - Strings Loops and Arrays/FullNameGenerator/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Student Workbook 2 - Strings Loops and Arrays/FullNameParser/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Student Workbook 2 - Strings Loops and Arrays/FullNameParser/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Student Workbook 2 - Strings Loops and Arrays/OverloadedCellPhone/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Student Workbook 2 - Strings Loops and Arrays/OverloadedCellPhone/src/main/java/com/pluralsight/CellPhone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Student Workbook 2 - Strings Loops and Arrays/OverloadedCellPhone/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Student Workbook 2 - Strings Loops and Arrays/RollTheDice/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Student Workbook 2 - Strings Loops and Arrays/RollTheDice/src/main/java/com/plurualsight/Dice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Student Workbook 2 - Strings Loops and Arrays/RollTheDice/src/main/java/com/plurualsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Student Workbook 2 - Strings Loops and Arrays/Vehicle/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Student Workbook 2 - Strings Loops and Arrays/Vehicle/src/main/java/com/plurualsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Student Workbook 2 - Strings Loops and Arrays/Vehicle/src/main/java/com/plurualsight/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Student Workbook 2 - Strings Loops and Arrays/addressbuilder/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Student Workbook 2 - Strings Loops and Arrays/addressbuilder/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Student Workbook 2 - Strings Loops and Arrays/addressbuilder/src/main/java/com/pluralsight/addressbuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Student Workbook 2 - Strings Loops and Arrays/cell_phone_service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Student Workbook 2 - Strings Loops and Arrays/cell_phone_service/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Student Workbook 2 - Strings Loops and Arrays/cell_phone_service/src/main/java/com/pluralsight/cell_phone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Student Workbook 2 - Strings Loops and Arrays/cellphone_service_extended/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Student Workbook 2 - Strings Loops and Arrays/cellphone_service_extended/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Student Workbook 2 - Strings Loops and Arrays/cellphone_service_extended/src/main/java/com/pluralsight/cellphone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Student Workbook 2 - Strings Loops and Arrays/highscorewins/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Student Workbook 2 - Strings Loops and Arrays/highscorewins/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Student Workbook 2 - Strings Loops and Arrays/highscorewins/src/main/java/highscorewins.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Student Workbook 2 - Strings Loops and Arrays/looping_exercises/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Student Workbook 2 - Strings Loops and Arrays/looping_exercises/src/main/java/com/plurualsight/DoWhileLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Student Workbook 2 - Strings Loops and Arrays/looping_exercises/src/main/java/com/plurualsight/ForLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Student Workbook 2 - Strings Loops and Arrays/looping_exercises/src/main/java/com/plurualsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Student Workbook 2 - Strings Loops and Arrays/looping_exercises/src/main/java/com/plurualsight/WhileLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Student Workbook 2 - Strings Loops and Arrays/test_statistics/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Student Workbook 2 - Strings Loops and Arrays/test_statistics/src/main/java/com/plurualsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Student Workbook 2 - Strings Loops and Arrays/theater_reservations/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Student Workbook 2 - Strings Loops and Arrays/theater_reservations/src/main/java/Scanner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Student Workbook 2 - Strings Loops and Arrays/theater_reservations/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Student Workbook 2 - Strings Loops and Arrays/theater_reservations/src/main/java/com/pluralsight/data_time_formatter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Student Workbook 2 - Strings Loops and Arrays/wk2_stringsandarrays/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Student Workbook 2 - Strings Loops and Arrays/wk2_stringsandarrays/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/TodoApp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/TodoApp/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/TodoApp/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/TodoApp/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/TodoApp/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/TodoApp/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/TodoApp/Task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/TodoApp/Todo-App-Java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/TodoApp/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/TodoApp/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/TodoApp/src/main/java/com/pluralsight/Task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Workbook 2b - Working with Intellij/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Workbook 2b - Working with Intellij/src/main/java/com/plurualsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Workbook 2b - Working with Intellij/src/main/java/com/plurualsight/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Workbook 3a - Mastering Java Fundamentals/bedtime_stories/goldilocks.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Workbook 3a - Mastering Java Fundamentals/bedtime_stories/hansel_and_gretel.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Workbook 3a - Mastering Java Fundamentals/bedtime_stories/mary_had_a_little_lamb.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Workbook 3a - Mastering Java Fundamentals/bedtime_stories/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Workbook 3a - Mastering Java Fundamentals/bedtime_stories/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Workbook 3a - Mastering Java Fundamentals/famous_quotes/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Workbook 3a - Mastering Java Fundamentals/famous_quotes/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Workbook 3a - Mastering Java Fundamentals/famous_quotes/src/main/java/com/pluralsight/famous_quotes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/Workshop/finacialCalculator/src/main/java/com/pluralsight/finacialCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/cat_demo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/cat_demo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/cat_demo/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/cat_demo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/cat_demo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/cat_demo/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/cat_demo/src/main/java/com/pluralsight/cat_demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/catexercise/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/catexercise/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/catexercise/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/catexercise/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/catexercise/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/catexercise/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/catexercise/src/main/java/com/pluralsight/catexercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/debug_demo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/debug_demo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/debug_demo/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/debug_demo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/debug_demo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/debug_demo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/debug_demo/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/debug_demo/src/main/java/com/pluralsight/debug_demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demo_methods/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demo_methods/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demo_methods/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demo_methods/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demo_methods/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demo_methods/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demo_methods/src/main/java/com/pluralsight/demo_methods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/Chatgpt-Demo/demo-Project/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/Chatgpt-Demo/demo-Project/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/Chatgpt-Demo/demo-Project2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/Chatgpt-Demo/demo-Project2/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/Chatgpt-Demo/demo_.Project5/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/Chatgpt-Demo/demo_.Project5/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/Chatgpt-Demo/demo_Project3/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/Chatgpt-Demo/demo_Project3/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/Chatgpt-Demo/demo_Project4/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/Chatgpt-Demo/demo_Project4/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/Chatgpt-Demo/demo_Project6/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/Chatgpt-Demo/demo_Project6/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/Chatgpt-Demo/demo_Project7/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/Chatgpt-Demo/demo_Project7/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/Chatgpt-Demo/demo_Project8/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/Chatgpt-Demo/demo_Project8/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/Chatgpt-Demo/demo_Project9/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/Chatgpt-Demo/demo_Project9/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/DemoStart/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/DemoStart/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/PowerpuffGirls/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/PowerpuffGirls/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/PowerpuffGirls/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/PowerpuffGirls/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/PowerpuffGirls/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/PowerpuffGirls/src/main/java/com/pluralsight/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/PowerpuffGirls/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/PowerpuffGirls/src/main/java/com/pluralsight/PowerpuffGirl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/RecapFunDay4/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/RecapFunDay4/toy_story.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/TodoApp/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/TodoApp/Task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/TodoApp/Todo-App-Java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/TodoApp/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/TodoApp/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/cat_demo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/cat_demo/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/cat_demo/src/main/java/com/pluralsight/cat_demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/catexercise/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/catexercise/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/catexercise/src/main/java/com/pluralsight/catexercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/debug_demo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/debug_demo/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/debug_demo/src/main/java/com/pluralsight/debug_demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/demo_methods/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/demo_methods/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/demo_methods/src/main/java/com/pluralsight/demo_methods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/hospitalSystem/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/hospitalSystem/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/hospitalSystem/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/hospitalSystem/src/main/java/com/classexamples/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/hospitalSystem/src/main/java/com/classexamples/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/hospitalSystem/src/main/java/com/classexamples/Movie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/hospitalSystem/src/main/java/com/classexamples/Transaction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/hospitalSystem/src/main/java/com/hospital/Doctor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/hospitalSystem/src/main/java/com/hospital/HeartSurgeon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/hospitalSystem/src/main/java/com/hospital/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/hospitalSystem/src/main/java/com/hospital/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/hospitalSystem/src/main/java/com/netflix/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/hospitalSystem/src/main/java/com/netflix/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/hospitalSystem/src/main/java/com/netflix/Movie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/hospitalSystem/src/main/java/phoneapp/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/hospitalSystem/src/main/java/phoneapp/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/hospitalSystem/src/main/java/phoneapp/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/hospitalSystem/src/main/java/phoneapp/HeartSurgeon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/hospitalSystem/src/main/java/phoneapp/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/hospitalSystem/src/main/java/phoneapp/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/src/main/java/com.hospital.staff/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/src/main/java/com.hospital.staff/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/src/main/java/com.hospital.staff/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/src/main/java/com.hospital.staff/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/src/main/java/com.hospital.staff/Doctor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/src/main/java/com.hospital.staff/Nurse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/src/main/java/com.hospital.staff/StaffMember.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/src/main/java/com/hospital/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/src/main/java/com/hospital/departments/Department.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/demos-teacher/src/main/java/com/hospital/hospital.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/file_locations.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/folder_tree.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/hospitalSystem/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/hospitalSystem/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/hospitalSystem/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/hospitalSystem/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/hospitalSystem/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/hospitalSystem/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/hospitalSystem/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/hospitalSystem/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/hospitalSystem/src/main/java/com.hospital.staff/Doctor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/hospitalSystem/src/main/java/com.hospital.staff/Nurse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/hospitalSystem/src/main/java/com.hospital.staff/StaffMember.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/hospitalSystem/src/main/java/com/classexamples/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/hospitalSystem/src/main/java/com/classexamples/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/hospitalSystem/src/main/java/com/classexamples/Movie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/hospitalSystem/src/main/java/com/classexamples/Transaction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/hospitalSystem/src/main/java/com/hospital/Doctor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/hospitalSystem/src/main/java/com/hospital/HeartSurgeon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/hospitalSystem/src/main/java/com/hospital/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/hospitalSystem/src/main/java/com/hospital/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/hospitalSystem/src/main/java/com/hospital/departments/Department.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/hospitalSystem/src/main/java/com/hospital/hospital.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/hospitalSystem/src/main/java/com/netflix/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/hospitalSystem/src/main/java/com/netflix/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/hospitalSystem/src/main/java/com/netflix/Movie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/hospitalSystem/src/main/java/phoneapp/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/hospitalSystem/src/main/java/phoneapp/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/hospitalSystem/src/main/java/phoneapp/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/hospitalSystem/src/main/java/phoneapp/HeartSurgeon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/hospitalSystem/src/main/java/phoneapp/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/hospitalSystem/src/main/java/phoneapp/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/looping_exercises/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/looping_exercises/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/looping_exercises/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/looping_exercises/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/looping_exercises/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/looping_exercises/src/main/java/com/plurualsight/DoWhileLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/looping_exercises/src/main/java/com/plurualsight/ForLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/looping_exercises/src/main/java/com/plurualsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/looping_exercises/src/main/java/com/plurualsight/WhileLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/src/main/java/com.hospital.staff/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/src/main/java/com.hospital.staff/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/src/main/java/com.hospital.staff/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/src/main/java/com.hospital.staff/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/src/main/java/com.hospital.staff/Doctor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/src/main/java/com.hospital.staff/Nurse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/src/main/java/com.hospital.staff/StaffMember.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/src/main/java/com/hospital/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/src/main/java/com/hospital/departments/Department.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/src/main/java/com/hospital/hospital.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/workbook1c/shopping_list/11..java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/workbook1c/shopping_list/11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/workbook1d/MethodPractice/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/workbook1d/MethodPractice/src/main/java/com/pluralsight/CompareNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/workbook1d/MethodPractice/src/main/java/com/pluralsight/Format.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/workbook1d/MethodPractice/src/main/java/com/pluralsight/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/workbook1d/MethodPractice/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/workbook1d/MethodPractice/src/main/java/com/pluralsight/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/workbook1d/PayrollCalculator/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/workbook1d/PayrollCalculator/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/workbook1d/RentalCarCalculator/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/workbook1d/RentalCarCalculator/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/workbook1d/RentalCarCalculator/src/main/java/com/pluralsight/RentalCarCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/workbook1d/SandwhichShop_Pat2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/workbook1d/SandwhichShop_Pat2/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/workbook1d/SandwhichShop_Pat2/src/main/java/com/pluralsight/SandwichShop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/workbook1d/Sandwich_Shop/Work_book1d/String_Application/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/workbook1d/Sandwich_Shop/Work_book1d/String_Application/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/workbook1d/Sandwich_Shop/Work_book1d/String_Application/src/main/java/com/pluralsight/Reciept.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/workbook1d/Sandwich_Shop/Work_book1d/String_Application/src/main/java/com/pluralsight/VariableApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/workbook1d/Sandwich_Shop/Workbook1a/Helloworld/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/workbook1d/Sandwich_Shop/Workbook1a/Helloworld/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/workbook1d/Sandwich_Shop/Workbook1b/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/workbook1d/Sandwich_Shop/Workbook1b/src/main/java/Cats.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/workbook1d/Sandwich_Shop/Workbook1b/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/workbook1d/Sandwich_Shop/Workbook1c/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/workbook1d/Sandwich_Shop/Workbook1c/src/main/java/com/pluralsight/Helloworld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/workbook1d/Sandwich_Shop/Workbook1c/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/workbook1d/Sandwich_Shop/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/workbook1d/Sandwich_Shop/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/workbook1d/Sandwich_Shop/src/main/java/com/pluralsight/Sandwhich_Shop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/workbook1d/String_Application/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/workbook1d/String_Application/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/workbook1d/String_Application/src/main/java/com/pluralsight/Reciept.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/workbook1d/String_Application/src/main/java/com/pluralsight/VariableApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/workbook1d/basic_calculator/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/workbook1d/math_application/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/demos-teacher/workbook1d/math_application/MathApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/file_locations.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/folder_tree.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/hospitalSystem/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/hospitalSystem/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/hospitalSystem/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/hospitalSystem/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/hospitalSystem/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/hospitalSystem/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/hospitalSystem/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/hospitalSystem/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/hospitalSystem/src/main/java/com.hospital.staff/Doctor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/hospitalSystem/src/main/java/com.hospital.staff/Nurse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/hospitalSystem/src/main/java/com.hospital.staff/StaffMember.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/hospitalSystem/src/main/java/com/hospital/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/hospitalSystem/src/main/java/com/hospital/departments/Department.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/hospitalSystem/src/main/java/com/hospital/hospital.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/looping_exercises/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/looping_exercises/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/looping_exercises/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/looping_exercises/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/looping_exercises/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/looping_exercises/src/main/java/com/plurualsight/DoWhileLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/looping_exercises/src/main/java/com/plurualsight/ForLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/looping_exercises/src/main/java/com/plurualsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/looping_exercises/src/main/java/com/plurualsight/WhileLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/workbook1c/shopping_list/11..java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/workbook1c/shopping_list/11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/workbook1d/MethodPractice/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/workbook1d/MethodPractice/src/main/java/com/pluralsight/CompareNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/workbook1d/MethodPractice/src/main/java/com/pluralsight/Format.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/workbook1d/MethodPractice/src/main/java/com/pluralsight/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/workbook1d/MethodPractice/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/workbook1d/MethodPractice/src/main/java/com/pluralsight/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/workbook1d/PayrollCalculator/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/workbook1d/PayrollCalculator/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/workbook1d/RentalCarCalculator/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/workbook1d/RentalCarCalculator/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/workbook1d/RentalCarCalculator/src/main/java/com/pluralsight/RentalCarCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/workbook1d/SandwhichShop_Pat2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/workbook1d/SandwhichShop_Pat2/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/workbook1d/SandwhichShop_Pat2/src/main/java/com/pluralsight/SandwichShop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/workbook1d/Sandwich_Shop/Work_book1d/String_Application/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/workbook1d/Sandwich_Shop/Work_book1d/String_Application/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/workbook1d/Sandwich_Shop/Work_book1d/String_Application/src/main/java/com/pluralsight/Reciept.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/workbook1d/Sandwich_Shop/Work_book1d/String_Application/src/main/java/com/pluralsight/VariableApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/workbook1d/Sandwich_Shop/Workbook1a/Helloworld/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/workbook1d/Sandwich_Shop/Workbook1a/Helloworld/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/workbook1d/Sandwich_Shop/Workbook1b/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/workbook1d/Sandwich_Shop/Workbook1b/src/main/java/Cats.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/workbook1d/Sandwich_Shop/Workbook1b/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/workbook1d/Sandwich_Shop/Workbook1c/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/workbook1d/Sandwich_Shop/Workbook1c/src/main/java/com/pluralsight/Helloworld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/workbook1d/Sandwich_Shop/Workbook1c/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/workbook1d/Sandwich_Shop/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/workbook1d/Sandwich_Shop/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/workbook1d/Sandwich_Shop/src/main/java/com/pluralsight/Sandwhich_Shop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/workbook1d/String_Application/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/workbook1d/String_Application/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/workbook1d/String_Application/src/main/java/com/pluralsight/Reciept.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/workbook1d/String_Application/src/main/java/com/pluralsight/VariableApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/workbook1d/basic_calculator/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/workbook1d/math_application/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../demos-teacher-backup/workbook1d/math_application/MathApp.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;alexanderadolfodiaz017-oss&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/alexanderadolfodiaz017-oss/java-academyAlexander-DIaz.git",
+    "accountId": "b5ec49a7-45d6-46c3-98ee-a0353334a8e4"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="34LXe8KkkOjjrKRzNedO6COC8em" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/josel/PluralSight/GitHub/java-academyAlexander-DIaz/demos-teacher/src/main/java/com.hospital.staff&quot;
+  }
+}</component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bdd0043f-459d-42dd-a131-23de11c58eee" name="Changes" comment="" />
+      <created>1760993918149</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1760993918149</updated>
+    </task>
+    <servers />
+  </component>
+</project>
