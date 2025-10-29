@@ -14,4 +14,4 @@ public class Main {
         System.out.println("Employee: " + emp.getName() + ", Pay Rate: $" + emp.getPayRate() + ", Total Pay: $" + emp.getTotalPay());
     }
 }
- //fq
+ //
