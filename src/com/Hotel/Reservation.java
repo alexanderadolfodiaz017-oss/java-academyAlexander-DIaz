@@ -47,7 +47,7 @@ public class Reservation {
     public void setWeekend(boolean weekend) {
         isWeekend = weekend;
     }
-
+//,
     // Derived getter for total reservation cost (to fill in later)
     public double getReservationTotal() {
         // You’ll add your logic here later
