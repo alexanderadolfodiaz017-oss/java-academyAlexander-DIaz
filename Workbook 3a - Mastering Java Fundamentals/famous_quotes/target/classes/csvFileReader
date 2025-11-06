@@ -1,0 +1,38 @@
+import java.io.*;
+import java.util.ArrayList;
+import java.util.List;
+
+public class CsvReadWriteExample {
+
+public static void main(String[] args) {
+    String inputPath = "data/input.csv";
+    String outputPath = "data/output.csv";
+
+    List<String[]> rows = new ArrayList<>();
+
+    // 🔹 READ CSV FILE
+    try (BufferedReader reader = new BufferedReader(new FileReader(inputPath))) {
+        String line;
+        while ((line = reader.readLine()) != null) {
+            // Optional: split into columns
+            String[] columns = line.split(",");
+            rows.add(columns);
+        }
+        System.out.println("✅ CSV read complete. Rows: " + rows.size());
+    } catch (IOException e) {
+        e.printStackTrace();
+    }
+
+    // 🔹 WRITE TO NEW CSV FILE
+    try (BufferedWriter writer = new BufferedWriter(new FileWriter(outputPath))) {
+        for (String[] row : rows) {
+            String line = String.join(",", row);
+            writer.write(line);
+            writer.newLine(); // newline after each row
+        }
+        System.out.println("✅ CSV written to: " + outputPath);
+    } catch (IOException e) {
+        e.printStackTrace();
+    }
+}
+}

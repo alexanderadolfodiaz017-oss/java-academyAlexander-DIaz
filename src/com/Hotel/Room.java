@@ -1,23 +1,17 @@
 package com.Hotel;
 
 public class Room {
-    private static int nextRoomNumber = 100;
-    private int roomNumber;
+//..
     private int numberOfBeds;
     private double price;
     private boolean isOccupied;
     private boolean isDirty;
 
     public Room(int numberOfBeds, double price, boolean isOccupied, boolean isDirty) {
-        this.roomNumber = nextRoomNumber++;
         this.numberOfBeds = numberOfBeds;
         this.price = price;
         this.isOccupied = isOccupied;
         this.isDirty = isDirty;
-    }
-
-    public int getRoomNumber() {
-        return roomNumber;
     }
 
     public boolean isDirty() {
@@ -51,4 +45,5 @@ public class Room {
     public void setNumberOfBeds(int numberOfBeds) {
         this.numberOfBeds = numberOfBeds;
     }
+
 }
